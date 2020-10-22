@@ -7,5 +7,5 @@ https://line-sec.co.jp/contents/regulartimesale.html
 
 
 Java 
-jsp % servlet
+jsp & servlet
 
